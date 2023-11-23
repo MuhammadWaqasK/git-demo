@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 firefox 
 google 
 chrome
 whatsapp
+=======
+Waqas
+khan 
+ali
+>>>>>>> 5dce83d34161dbdf3e3ddf0359823f94e14b2113
